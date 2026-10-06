@@ -1,0 +1,8 @@
+Artisan Sales Analytics & Executive Dashboard
+Project Overview
+Transformed unorganized transactional sales data into an interactive, high-level executive dashboard to track revenue drivers, regional performance, shipping overhead, and marketing efficiency.
+Key Achievements & Business Value Delivered
+ Centralized Core Metrics: Built interactive KPI cards tracking $2.55M total sales, 23.8k units sold, $50.1k discounts, and an average customer satisfaction rating of 4.4/5.
+ Regional & Channel Attribution: Identified North America and Europe as primary revenue drivers while analyzing sales across 6 marketing channels (Organic Search, Social Media, Direct, Paid Ads, Referral, Email).
+ Shipping & Overhead Analysis: Visualized logistics costs per product category, pinpointing higher shipping expenses in Jewelry ($53) and Home Decor ($47) to highlight cost-saving opportunities.
+ Dynamic Slicing: Integrated multi-parameter dynamic slicers (Year, Payment Method, Product Category, Marketing Channel) for instant data filtering and drill-down analysis.
